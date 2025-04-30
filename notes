@@ -1,0 +1,10 @@
+
+git clone https://github.com/Imalne/PBaSR.git
+cd PBaSR
+
+pip3 install -r requirements.txt
+python setup.py develop
+
+pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu111
+
+pip install opencv-python pandas scikit-learn matplotlib albumentations tqdm
