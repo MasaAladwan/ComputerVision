@@ -16,4 +16,4 @@ The dataset used in this task is based on images from the following repository:
 This is part of a personal exploration of computer vision concepts, dataset preparation, and image classification.
 
 ## Notes
-This task is experimental and meant for learning purposes — feel free to build on it!
+This task is experimental and meant for learning purposes, feel free to build on it :)
